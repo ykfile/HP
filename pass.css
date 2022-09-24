@@ -1,0 +1,22 @@
+.nari {
+    color: rgb(255, 60, 0);
+    font-size: 100px;
+}
+
+input {
+    color: blueviolet;
+}
+
+h1 {
+    color: darkmagenta;
+}
+
+.kuranari {
+    background-color: gray;
+}
+
+p {
+    font-family: "serif";
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
