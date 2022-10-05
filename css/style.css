@@ -35,6 +35,10 @@ body {
 	line-height: 2;		/*行間*/
 }
 
+a {
+	text-decoration: none;
+  }
+
 /*リセット*/
 figure {margin: 0;}
 dd {margin: 0;}
